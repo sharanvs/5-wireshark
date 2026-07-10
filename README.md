@@ -9,7 +9,7 @@ Create separate packet captures showing exactly 4 ICMP echo requests and 4 echo 
 ## Gateway IP Address
 **192.168.1.1**
 
-## Performance Observations
+## Performance
 
 | Target | Target Type | Round-Trip Time (RTT) / Status |
 |--------|-------------|--------------------------------|
