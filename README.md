@@ -11,8 +11,8 @@ Create separate packet captures showing exactly 4 ICMP echo requests and 4 echo 
 
 ## Performance
 
-| Target | Target Type | Round-Trip Time (RTT) / Status |
-|--------|-------------|--------------------------------|
+| Target | Target Type | Round-Trip Time (RTT)|
+|--------|-------------|----------------------|
 | **google.com** | External WAN |  Average ~20ms |
 | **Gateway IP** | Local Router/Hop | Average ~3ms |
 | **127.0.0.1** | Localhost (Loopback) | Average <0.05ms |
